@@ -1,0 +1,4 @@
+1. html - css 1:1 대응이 맞는지?
+2. password 와 confirm password 의 처리
+3. username, password 의 정규표현식 처리
+4. email 안보내짐? - why?
